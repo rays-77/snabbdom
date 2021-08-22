@@ -1,0 +1,16 @@
+{
+    "name": "snabbdom",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/rays-77/snabbdom.git",
+    "author": "ray1985113 <ray1985113@qq.com>",
+    "license": "MIT",
+    "dependencies": {
+        "parcel-bundler": "^1.12.5",
+        "snabbdom": "^3.0.3"
+    },
+    "scripts": {
+        "dev": "parcel index.html --open",
+        "build": "parcel build index.html"
+    }
+}
